@@ -26,7 +26,7 @@ From a folder input, you can get:
 #    Micael Jarniac
 #
 #    ----------------Maintainer----------------
-#    John Fallot <john.fallot@gmail.com>
+#    John Fallot
 #
 #    ----------------License----------------
 #    The MIT License [https://opensource.org/licenses/MIT]
